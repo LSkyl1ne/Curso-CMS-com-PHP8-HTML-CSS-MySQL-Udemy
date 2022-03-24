@@ -5,6 +5,9 @@
 body{
     background-color: black;
 }
+.container{
+    width: 95%;
+}
 .header-top{
     color: white;
     display: inline-flex;
