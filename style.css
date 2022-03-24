@@ -5,6 +5,9 @@
 body{
     background-color: black;
 }
+.header-top{
+    color: white;
+}
 .socialMedia svg{
     margin: 20px 10px 0px 10px;
 }
