@@ -8,9 +8,11 @@ body{
 .header-top{
     color: white;
     display: inline-flex;
+    justify-content: space-between;
+    padding: 16px 0px;
 }
 .socialMedia svg{
-    margin: 20px 10px 0px 10px;
+
 }
 .contact-top{
     display: inline-flex;
