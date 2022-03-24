@@ -10,6 +10,7 @@ body{
     display: inline-flex;
     justify-content: space-between;
     padding: 16px 0px;
+    width: 100%;
 }
 .socialMedia svg{
 
