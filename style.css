@@ -17,11 +17,11 @@ body{
     padding: 16px 0px;
     width: 100%;
 }
-.socialMedia:last-child{
-    margin-right: 0px!important;
-}
 .socialMedia svg{
     margin-right: 15px;
+}
+.socialMedia svg:last-child{
+    margin-right: 0px;
 }
 .contact-top{
     display: inline-flex;
