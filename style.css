@@ -7,11 +7,11 @@ body{
 }
 .header-top{
     color: white;
-    display: flex;
+    display: inline;
 }
 .socialMedia svg{
     margin: 20px 10px 0px 10px;
 }
 .contact-top{
-    display: flex;
+    display: inline;
 }
