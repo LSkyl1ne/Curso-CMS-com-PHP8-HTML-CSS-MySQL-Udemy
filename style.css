@@ -16,6 +16,10 @@ body{
     font-size: 17px;
     padding: 16px 0px;
     width: 100%;
+    flex-wrap: wrap;
+}
+.socialMedia{
+    text-align: center;
 }
 .socialMedia svg{
     margin-right: 15px;
@@ -25,4 +29,5 @@ body{
 }
 .contact-top{
     display: inline-flex;
+    text-align: center;
 }
