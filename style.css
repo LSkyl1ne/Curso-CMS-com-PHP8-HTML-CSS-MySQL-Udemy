@@ -20,6 +20,7 @@ body{
 }
 .socialMedia{
     text-align: center;
+    width: 100%;
 }
 .socialMedia svg{
     margin-right: 15px;
@@ -30,4 +31,5 @@ body{
 .contact-top{
     display: inline-flex;
     text-align: center;
+    width: 100%;
 }
