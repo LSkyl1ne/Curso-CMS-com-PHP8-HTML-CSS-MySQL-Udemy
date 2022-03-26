@@ -31,6 +31,12 @@ body{
     display: inline-flex;
     text-align: center;
 }
+.contact-top div{
+    margin-right: 10px;
+}
+.contact-top div:last-child{
+    margin-right: 0px;
+}
 @media (max-width: 600px) {
     .header-top{
         flex-wrap: wrap;
