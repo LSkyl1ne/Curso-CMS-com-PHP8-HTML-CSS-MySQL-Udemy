@@ -33,6 +33,7 @@ body{
 }
 .contact-top div{
     margin-right: 15px;
+    display: flex;
 }
 .contact-top div:last-child{
     margin-right: 0px;
