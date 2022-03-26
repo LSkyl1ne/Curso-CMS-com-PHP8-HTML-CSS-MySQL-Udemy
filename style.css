@@ -31,7 +31,7 @@ body{
     display: inline-flex;
     text-align: center;
 }
-@media (max-width: 999px) {
+@media (max-width: 600px) {
     .header-top{
         flex-wrap: wrap;
     }
