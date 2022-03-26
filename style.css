@@ -32,7 +32,7 @@ body{
 }
 @media (width: 999px) {
     .header-top{
-        display: flex;
+        display: block!important;
         flex-wrap: wrap;
     }
     .socialMedia{
