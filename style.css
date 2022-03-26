@@ -51,7 +51,8 @@ body{
         flex-direction: column;
     }
     .contact-top div{
-        display: block;
+        display: flex;
         margin-right: 0px;
+        justify-content: center;
     }
 }
