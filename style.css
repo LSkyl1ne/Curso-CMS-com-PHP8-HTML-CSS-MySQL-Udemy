@@ -49,5 +49,7 @@ body{
         display: flex;
         flex-direction: column;
     }
-    
+    .contact-top div{
+        margin-right: 0px;
+    }
 }
