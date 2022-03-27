@@ -67,9 +67,3 @@ body{
     margin: 0 auto;
     max-width: 100%;
 }
-@media (min-width: 999px) {
-   .header-logo{
-       margin-top: -25px;
-   } 
-}
-
