@@ -70,6 +70,6 @@ body{
 .bar-button{
     width: 20px;
     height: 2px;
-    color: white;
+    background-color: white;
     margin: 5px;
 }
