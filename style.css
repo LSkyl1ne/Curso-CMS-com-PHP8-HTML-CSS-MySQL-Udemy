@@ -67,3 +67,7 @@ body{
     margin: 0 auto;
     max-width: 100%;
 }
+.bar-button{
+    width: 20px;
+    height: 5px;
+}

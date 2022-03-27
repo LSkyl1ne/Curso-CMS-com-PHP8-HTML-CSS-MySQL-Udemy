@@ -42,7 +42,21 @@
                 <img src="resources/imagens/logo.png" alt=""></img>
             </div>
             <div class="header-bottom">
-
+                <div class="bar">
+                    <div class="bar-button"></div>
+                    <div class="bar-button"></div>
+                    <div class="bar-button"></div>
+                </div>
+                <div class="menu">
+                    <ul>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">A RLBS Motors</a></li>
+                        <li><a href="">Serviços</a></li>
+                        <li><a href="">Vídeos</a></li>
+                        <li><a href="">Blog</a></li>
+                        <li><a href="">Fale Conosco</a></li>
+                    </ul>
+                </div>
             </div>
         </div>
     </header>
