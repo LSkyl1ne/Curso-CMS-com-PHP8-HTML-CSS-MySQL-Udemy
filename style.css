@@ -59,11 +59,6 @@ body{
 .header-logo{
     margin-top: -35px;
 }
-@media (min-width: 999px) {
-   .header-logo{
-       margin-top: -35px;
-   } 
-}
 .header-logo{
     margin-top: 0px;
 }
@@ -71,3 +66,9 @@ body{
     display: block;
     margin: 0 auto;
 }
+@media (min-width: 999px) {
+   .header-logo{
+       margin-top: -35px;
+   } 
+}
+
