@@ -56,6 +56,9 @@ body{
         justify-content: center;
     }
 }
+.header-top{
+    margin-top: -35px;
+}
 .header-logo img{
     display: block;
     margin: 0 auto;
