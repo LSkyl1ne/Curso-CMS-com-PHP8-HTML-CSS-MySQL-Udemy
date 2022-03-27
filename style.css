@@ -56,8 +56,13 @@ body{
         justify-content: center;
     }
 }
-.header-top{
+.header-logo{
     margin-top: -35px;
+}
+@media (min-width: 999px) {
+   .header-logo{
+       margin-top: -35px;
+   } 
 }
 .header-logo img{
     display: block;
