@@ -6,7 +6,7 @@ let bar = document.querySelector(".bar");
         menu.classList.add("active");
      }
      else if(menu.classList.value == "menu active"){
-         menu.classList.remove(active);
+         menu.classList.remove("active");
      }
     
     console.log(menu.classList);
