@@ -59,7 +59,8 @@ body{
 }
 .menu{
     background-color: blue;
-    
+    display: flex;
+    justify-content: space-between;
 }
 .menu ul{
     list-style: none;
