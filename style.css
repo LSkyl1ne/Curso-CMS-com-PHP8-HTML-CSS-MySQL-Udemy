@@ -84,7 +84,7 @@ body{
     cursor: pointer;
 }
 .menu ul li a:hover{
-    color: blue;
+    color: #4444bd;
 }
 .bar-button{
     width: 26px;
