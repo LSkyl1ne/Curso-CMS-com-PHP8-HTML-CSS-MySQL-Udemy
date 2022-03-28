@@ -58,13 +58,8 @@ body{
     justify-content: space-between;
 }
 .menu{
-    position: absolute;
-    top: 85px;
-    left: -100%;
-    width: 100%;
-    position: absolute;
-    height: calc(100vh - 85px);
-    display: none;
+    background-color: blue;
+    
 }
 .menu ul{
     list-style: none;
@@ -131,28 +126,12 @@ body{
     .menu{
         display: block;
         transition: 0.3s;
-        background-color: blue;
-    }
-    .menu.active{
-        left: 0;
-    }
-    .bar{
-        cursor: auto;
-        top: 52px;
-    }
-    .bar-button.active{
-        display: block;
-    }
-    .bi-x-lg.active{
-        display: block;
-        animation: rotate  0.5s  normal;
-    }
-}
-@media (max-width: 1000px) {
-    .menu{
-        display: block;
-        transition: 0.3s;
-        background-color: blue;
+        position: absolute;
+        top: 85px;
+        left: -100%;
+        width: 100%;
+        position: absolute;
+        height: calc(100vh - 85px);
     }
     .menu.active{
         left: 0;
