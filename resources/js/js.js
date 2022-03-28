@@ -5,7 +5,9 @@ let barButton = document.querySelectorAll(".bar-button");
 bar.addEventListener("click", () => {
     if(menu.classList.value == "menu"){
         menu.classList.add("active");
-        barButton.outerHTML = "";
+        barButton.forEach(button => {
+            button.remove();
+        });
     }
     else if(menu.classList.value == "menu active"){
          menu.classList.remove("active");
