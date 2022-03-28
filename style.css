@@ -66,9 +66,9 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-.menu::after{
-    background: blue;
-    background: linear-gradient(143deg, rgba(0,212,255,0) 50%, rgba(0,5,242,1) 50%);
+.menu::before{
+    background: rgb(255,255,255);
+    background: linear-gradient(143deg, rgba(255,255,255,0) 50%, rgba(0,5,242,1) 50%);
 }
 .menu ul{
     list-style: none;
