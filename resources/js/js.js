@@ -13,5 +13,7 @@ bar.addEventListener("click", () => {
     else if(menu.classList.value == "menu active"){
          menu.classList.remove("active");
          x.style.display = ""
+         document.createElement("div").classList.add("bar-button")
+
     }
 });
