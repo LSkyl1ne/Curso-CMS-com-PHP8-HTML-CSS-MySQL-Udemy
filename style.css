@@ -91,4 +91,11 @@ body{
         margin-right: 0px;
         justify-content: center;
     }
+    .menu{
+        transition: 0.3s;
+        background-color: red;
+    }
+    .menu.active{
+
+    }
 }
