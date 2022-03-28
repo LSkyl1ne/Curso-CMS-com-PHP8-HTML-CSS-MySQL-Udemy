@@ -6,7 +6,7 @@ bar.addEventListener("click", () => {
     if(menu.classList.value == "menu"){
         menu.classList.add("active");
         barButton.forEach(button => {
-            button.outerHTML = "";
+            button.remove();
         });
         x.style.display = "block"
     }
