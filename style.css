@@ -59,7 +59,7 @@ body{
 }
 .menu{
     background-color: blue;
-    display: flex;
+    display: inline-flex;
     justify-content: space-between;
 }
 .menu ul{
