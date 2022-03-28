@@ -144,7 +144,7 @@ body{
     }
     .bi-x-lg.active{
         display: block;
-        animation: rotate  1s  normal;
+        animation: rotate  0.5s  normal;
     }
 }
 @keyframes rotate {
