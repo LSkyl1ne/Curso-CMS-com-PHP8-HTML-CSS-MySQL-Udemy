@@ -59,7 +59,7 @@ body{
 }
 .menu{
     position: absolute;
-    top: 0;
+    top: 85px;
     left: -100%;
     width: 100%;
     position: absolute;
@@ -123,6 +123,5 @@ body{
     }
     .menu.active{
         left: 0;
-        top: 85px;
     }
 }
