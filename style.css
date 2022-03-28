@@ -96,6 +96,6 @@ body{
         background-color: red;
     }
     .menu.active{
-
+        left: 0;
     }
 }
