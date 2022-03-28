@@ -71,16 +71,14 @@ body{
     content: "";
     width: 44px;
     height: 70px;
-    position: absolute;
-    left: 84px;
+    position: relative;
     background-color: red;
 }
 .menu::after{
     content: "";
     width: 44px;
     height: 70px;
-    position: absolute;
-    left: 84px;
+    position: relative;
     background-color: red;
 }
 .menu ul{
