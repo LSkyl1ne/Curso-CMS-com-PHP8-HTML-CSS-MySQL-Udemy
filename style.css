@@ -60,7 +60,7 @@ body{
 .menu{
     background-color: blue;
     display: inline-flex;
-    width: 90%;
+    width: 85%;
     height: 70px;
     margin-top: 20px;
     margin-left: auto;
@@ -69,14 +69,19 @@ body{
 }
 .menu::before{
     content: "";
-    width: 75px;
-    height: 100%;
+    width: 44px;
+    height: 70px;
     position: absolute;
-    left: -75px;
+    left: 84px;
     background-color: red;
 }
 .menu::after{
-
+    content: "";
+    width: 44px;
+    height: 70px;
+    position: absolute;
+    left: 84px;
+    background-color: red;
 }
 .menu ul{
     list-style: none;
