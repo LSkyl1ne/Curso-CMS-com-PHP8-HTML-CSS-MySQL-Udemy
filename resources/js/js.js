@@ -6,7 +6,7 @@ bar.addEventListener("click", () => {
     if(menu.classList.value == "menu"){
         menu.classList.add("active");
         barButton.forEach(button => {
-            button.remove();
+            barButton.removeChild(barButton)
         });
         x.style.display = "block"
     }
@@ -14,7 +14,7 @@ bar.addEventListener("click", () => {
          menu.classList.remove("active");
          x.style.display = ""
          barButton.forEach(button => {
-            button.add();
+            button.replaceChild(x)
         });
     }
 });
