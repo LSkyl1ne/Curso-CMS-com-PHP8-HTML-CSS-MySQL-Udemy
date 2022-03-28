@@ -101,7 +101,7 @@ body{
     cursor: pointer;
 }
 .bi-x-lg{
-    display: none;
+    display: block;
 }
 @media (max-width: 600px) {
     .header{
