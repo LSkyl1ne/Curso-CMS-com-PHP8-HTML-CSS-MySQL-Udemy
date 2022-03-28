@@ -87,6 +87,7 @@ body{
     color: #4444bd;
 }
 .bar-button{
+    display: none;
     width: 26px;
     height: 3px;
     background-color: white;
@@ -137,5 +138,11 @@ body{
     }
     .bar{
         cursor: auto;
+    }
+    .bar-button.active{
+        display: block;
+    }
+    .bi-x-lg.active{
+        display: block;
     }
 }
