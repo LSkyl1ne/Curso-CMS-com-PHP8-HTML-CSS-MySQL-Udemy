@@ -67,6 +67,7 @@ body{
     margin-right: auto;
 }
 .menu::before{
+    position: absolute;
     background: rgb(255,255,255);
     background: linear-gradient(143deg, rgba(255,255,255,0) 50%, rgba(0,5,242,1) 50%);
 }
