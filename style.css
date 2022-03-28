@@ -61,12 +61,16 @@ body{
     top: 0;
     left: -100%;
     width: 100%;
+    display: none;
 }
 .bar-button{
     width: 20px;
     height: 3px;
     background-color: white;
     margin: 5px;
+}
+.bar{
+    z-index: 1;
 }
 @media (max-width: 600px) {
     .header{
@@ -92,10 +96,12 @@ body{
         justify-content: center;
     }
     .menu{
+        display: block;
         transition: 0.3s;
-        background-color: red;
+        background-color: blue;
     }
     .menu.active{
         left: 0;
+        top: 100px;
     }
 }
