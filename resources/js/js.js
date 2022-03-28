@@ -8,7 +8,7 @@ bar.addEventListener("click", () => {
         barButton.forEach(button => {
             button.outerHTML = "";
         });
-        x.style.display = "block";
+        console.log(x.style.display);
     }
     else if(menu.classList.value == "menu active"){
          menu.classList.remove("active");
