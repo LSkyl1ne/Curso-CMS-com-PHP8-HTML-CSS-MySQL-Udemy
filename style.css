@@ -87,6 +87,7 @@ body{
     height: 3px;
     background-color: white;
     margin: 5px;
+    border-radius: 5px;
 }
 .bar{
     position: absolute;
