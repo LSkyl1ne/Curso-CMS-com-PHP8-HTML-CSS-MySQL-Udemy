@@ -104,6 +104,6 @@ body{
     }
     .menu.active{
         left: 0;
-        top: 100px;
+        top: 85px;
     }
 }
