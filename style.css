@@ -39,6 +39,10 @@ body{
     margin-right: 0px;
 }
 @media (max-width: 600px) {
+    .container{
+        display: inline-flex;
+        flex-wrap: wrap;
+    }
     .header-top{
         flex-wrap: wrap;
     }
@@ -66,6 +70,18 @@ body{
     display: block;
     margin: 0 auto;
     max-width: 100%;
+}
+.header-bottom{
+    display: inline-flex;
+    width: 100%;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.menu{
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
 }
 .bar-button{
     width: 20px;
