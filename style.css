@@ -77,6 +77,8 @@ body{
 }
 .menu ul li a{
     text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
     color: white;
     cursor: pointer;
 }
@@ -91,6 +93,7 @@ body{
     top: 30px;
     right: 20px;
     z-index: 1;
+    cursor: pointer;
 }
 @media (max-width: 600px) {
     .header{
@@ -123,5 +126,8 @@ body{
     }
     .menu.active{
         left: 0;
+    }
+    .bar{
+        cursor: auto;
     }
 }
