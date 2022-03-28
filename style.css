@@ -42,6 +42,7 @@ body{
     .container{
         display: inline-flex;
         flex-wrap: wrap;
+        align-items: center;
     }
     .header-top{
         flex-wrap: wrap;
@@ -73,7 +74,7 @@ body{
 }
 .header-bottom{
     display: inline-flex;
-    width: 100%;
+    width: auto;
     flex-direction: row-reverse;
     justify-content: space-between;
 }
