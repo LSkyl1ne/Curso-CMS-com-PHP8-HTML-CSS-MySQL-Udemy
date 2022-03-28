@@ -138,6 +138,7 @@ body{
     }
     .bar{
         cursor: auto;
+        top: 52px;
     }
     .bar-button.active{
         display: block;
