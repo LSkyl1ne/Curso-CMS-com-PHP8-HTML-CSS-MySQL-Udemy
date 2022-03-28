@@ -14,7 +14,7 @@ bar.addEventListener("click", () => {
          menu.classList.remove("active");
          x.style.display = ""
          barButton.forEach(button => {
-            button.outerHTML = "<div class='bar-button'></div>";
+            button.add();
         });
     }
 });
