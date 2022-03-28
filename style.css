@@ -98,6 +98,7 @@ body{
         display: inline-flex;
         align-items: center;
         justify-content: space-between;
+        flex-wrap: wrap;
     }
     .header-top{
         flex-wrap: wrap;
