@@ -147,6 +147,26 @@ body{
         animation: rotate  0.5s  normal;
     }
 }
+@media (max-width: 1000px) {
+    .menu{
+        display: block;
+        transition: 0.3s;
+        background-color: blue;
+    }
+    .menu.active{
+        left: 0;
+    }
+    .bar{
+        cursor: auto;
+    }
+    .bar-button.active{
+        display: block;
+    }
+    .bi-x-lg.active{
+        display: block;
+        animation: rotate  0.5s  normal;
+    }
+}
 @keyframes rotate {
     to{
         transform: rotate(90deg);
