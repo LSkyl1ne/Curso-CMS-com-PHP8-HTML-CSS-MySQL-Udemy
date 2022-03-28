@@ -103,6 +103,7 @@ body{
 }
 .bi-x-lg{
     display: none;
+    transform: rotate(5);
 }
 @media (max-width: 600px) {
     .header{
