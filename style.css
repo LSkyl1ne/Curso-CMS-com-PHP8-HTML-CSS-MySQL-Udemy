@@ -65,11 +65,18 @@ body{
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
+    overflow: initial;
 }
 .menu::before{
+    content: "";
+    width: 75px;
+    height: 100%;
     position: absolute;
-    background: rgb(255,255,255);
-    background: linear-gradient(143deg, rgba(255,255,255,0) 50%, rgba(0,5,242,1) 50%);
+    left: -75px;
+    background-color: red;
+}
+.menu::after{
+
 }
 .menu ul{
     list-style: none;
