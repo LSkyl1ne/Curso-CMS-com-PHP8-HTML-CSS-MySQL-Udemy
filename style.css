@@ -69,21 +69,21 @@ body{
 }
 .menu::before{
     content: "";
-    width: 44px;
-    height: 70px;
-    position: relative;
-    background-color: red;
+    position: absolute;
+    background-color: transparent;
     background: rgb(255,255,255);
-    background: linear-gradient(143deg, rgba(255,255,255,0) 50%, rgba(0,5,242,1) 50%);
+    border-top: 70px solid white;
+    border-left: 43px solid transparent;
+    left: 85px;
 }
 .menu::after{
     content: "";
-    width: 44px;
-    height: 70px;
-    position: relative;
-    background-color: red;
+    position: absolute;
+    background-color: transparent;
     background: rgb(255,255,255);
-    background: linear-gradient(143deg, rgba(255,255,255,0) 50%, rgba(0,5,242,1) 50%);
+    border-top: 70px solid white;
+    border-left: 43px solid transparent;
+    left: 85px;
 }
 .menu ul{
     list-style: none;
