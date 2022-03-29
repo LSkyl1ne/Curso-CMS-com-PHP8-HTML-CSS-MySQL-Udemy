@@ -71,17 +71,17 @@ body{
     content: "";
     position: relative;
     background-color: transparent;
-    border-top: 70px solid white;
+    border-top: 70px solid blue;
     border-left: 43px solid transparent;
-    left: 85px;
+    left: -42px;
 }
 .menu::after{
     content: "";
     position: relative;
     background-color: transparent;
-    border-top: 70px solid white;
+    border-top: 70px solid blue;
     border-right: 43px solid transparent;
-    left: 1198px;
+    left: 42px;
 }
 .menu ul{
     list-style: none;
