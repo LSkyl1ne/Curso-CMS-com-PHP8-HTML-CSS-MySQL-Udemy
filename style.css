@@ -121,7 +121,7 @@ body{
 .bi-x-lg{
     display: none;
 }
-@media (max-width: 600px) {
+@media (max-width: 750px) {
     .header{
         width: 100%;
         display: inline-flex;
