@@ -69,21 +69,19 @@ body{
 }
 .menu::before{
     content: "";
-    position: absolute;
+    position: relative;
     background-color: transparent;
-    background: rgb(255,255,255);
     border-top: 70px solid white;
     border-left: 43px solid transparent;
     left: 85px;
 }
 .menu::after{
     content: "";
-    position: absolute;
+    position: relative;
     background-color: transparent;
-    background: rgb(255,255,255);
     border-top: 70px solid white;
-    border-left: 43px solid transparent;
-    left: 85px;
+    border-right: 43px solid transparent;
+    left: 1198px;
 }
 .menu ul{
     list-style: none;
