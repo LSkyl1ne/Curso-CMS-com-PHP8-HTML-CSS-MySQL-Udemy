@@ -40,16 +40,18 @@
 
         </div>
         <div class="footer-section footer-servicos">
-        <div class="titulo"><h3>Serviços</h3></div>
-            <ul>
-                <li><a href="">Ar Condicionado</a></li>
-                <li><a href="">Diagnóstico de Motor</a></li>
-                <li><a href="">Manutenção de Freios</a></li>
-                <li><a href="">Lubrificação e Filtros</a></li>
-                <li><a href="">Pneu e Rodas</a></li>
-                <li><a href="">Correias e Mangueiras</a></li>
-                <li><a href="">Manutenção Preventiva</a></li>
-            </ul>
+            <div>
+                <div class="titulo"><h3>Serviços</h3></div>
+                <ul>
+                    <li><a href="">Ar Condicionado</a></li>
+                    <li><a href="">Diagnóstico de Motor</a></li>
+                    <li><a href="">Manutenção de Freios</a></li>
+                    <li><a href="">Lubrificação e Filtros</a></li>
+                    <li><a href="">Pneu e Rodas</a></li>
+                    <li><a href="">Correias e Mangueiras</a></li>
+                    <li><a href="">Manutenção Preventiva</a></li>
+                </ul>
+            </div>
         </div>
         <div class="footer-section footer-contatos">
             <div class="titulo"><h3>Contatos</h3></div>

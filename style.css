@@ -156,6 +156,11 @@ body{
     margin-right: 0;
 }
 .footer-institucional div{
+    max-width: 130px;
+    margin: 0 auto;
+}
+.footer-servicos div{
+    max-width: 130px;
     margin: 0 auto;
 }
 .div-contato{
