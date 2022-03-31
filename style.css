@@ -146,6 +146,14 @@ body{
 }
 .div-contato{
     display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.div-contato:last-child{
+    margin-bottom: 0px;
+}
+.div-contato .bi{
+    margin-right: 10px;
 }
 .footer-texto{
     color: white;
