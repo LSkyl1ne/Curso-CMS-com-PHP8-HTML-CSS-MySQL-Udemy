@@ -121,6 +121,9 @@ body{
 .bi-x-lg{
     display: none;
 }
+.descricao p{
+    color: white;
+}
 @media (max-width: 750px) {
     .header{
         width: 100%;
@@ -177,9 +180,6 @@ body{
     .menu::after{
         content: none;
     }
-}
-.descricao p{
-    color: white;
 }
 @keyframes rotate {
     to{
