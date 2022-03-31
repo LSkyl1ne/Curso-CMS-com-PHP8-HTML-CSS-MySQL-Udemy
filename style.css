@@ -173,19 +173,9 @@ body{
     }
     .menu::before{
         content: none;
-        position: relative;
-        background-color: transparent;
-        border-top: 70px solid blue;
-        border-left: 43px solid transparent;
-        left: -42px;
     }
     .menu::after{
         content: none;
-        position: relative;
-        background-color: transparent;
-        border-top: 70px solid blue;
-        border-right: 43px solid transparent;
-        left: 42px;
     }
 }
 @keyframes rotate {
