@@ -253,7 +253,10 @@ body{
         flex-wrap: wrap;
     }
     .footer-section{
-        width: 50%;
+        width: 33%;
+    }
+    .footer-logo{
+        width: 100%;
     }
 }
 @keyframes rotate {
