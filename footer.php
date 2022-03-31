@@ -5,10 +5,13 @@
                 <img src="resources/imagens/logo.png" alt="">
             </div>
             <div class="descricao">
-                A RLBS Motors Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Aliquid tenetur nulla, consequatur minus ad corporis,
-                beatae fuga debitis blanditiis quasi ullam voluptatum!
-                Dolor consequatur eos obcaecati modi quae vitae nulla?
+                <p>
+                    A RLBS Motors Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                    Aliquid tenetur nulla, consequatur minus ad corporis,
+                    beatae fuga debitis blanditiis quasi ullam voluptatum!
+                    Dolor consequatur eos obcaecati modi quae vitae nulla?
+                </p>
+
             </div>
             <div class="redes-sociais">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-facebook" viewBox="0 0 16 16">
