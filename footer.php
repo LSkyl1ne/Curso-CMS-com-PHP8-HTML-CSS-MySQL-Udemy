@@ -1,6 +1,6 @@
 <footer>
     <div class="footer-top">
-        <div class="footer-logo">
+        <div class="footer-section footer-logo">
             <div class="img">
                 <img src="resources/imagens/logo.png" alt="">
             </div>
@@ -24,7 +24,7 @@
                 </svg>
             </div>
         </div>
-        <div class="footer-institucional">
+        <div class="footer-section footer-institucional">
             <div class="titulo"><h3>Institucional</h3></div>
             <ul>
                 <li><a href=""></a>A RLBS Motors</li>
@@ -36,7 +36,7 @@
                 <li><a href="">Fazer Orçamento</a></li>
             </ul>
         </div>
-        <div class="footer-servicos">
+        <div class="footer-section footer-servicos">
         <div class="titulo"><h3>Serviços</h3></div>
             <ul>
                 <li><a href="">Ar Condicionado</a></li>
@@ -48,7 +48,7 @@
                 <li><a href="">Manutenção Preventiva</a></li>
             </ul>
         </div>
-        <div class="footer-contatos">
+        <div class="footer-section footer-contatos">
             <div class="titulo"><h3>Contatos</h3></div>
             <div class="contatos">
                 <div class="endereco">

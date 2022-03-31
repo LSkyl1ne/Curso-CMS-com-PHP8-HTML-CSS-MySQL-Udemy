@@ -123,6 +123,7 @@ body{
 }
 .footer-top{
     display: inline-flex;
+    justify-content: space-around;
 }
 .footer-texto{
     color: white;
