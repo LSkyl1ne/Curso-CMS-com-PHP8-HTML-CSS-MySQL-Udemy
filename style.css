@@ -258,9 +258,6 @@ body{
     .footer-logo{
         width: 100%;
     }
-    .footer-top a{
-        font-size: 10px;
-    }
 }
 @keyframes rotate {
     to{
