@@ -144,6 +144,17 @@ body{
 .footer-section{
     width: 25%;
 }
+.footer-logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.redes-sociais svg{
+    margin-right: 5px;
+}
+.redes-sociais:last-child{
+    margin-right: 0;
+}
 .div-contato{
     display: flex;
     align-items: center;
