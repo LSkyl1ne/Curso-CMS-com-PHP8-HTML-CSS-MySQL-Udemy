@@ -156,7 +156,7 @@ body{
         animation: rotate  0.5s  normal;
     }
 }
-@media (min-width:750px) {
+@media (min-width: 750px) {
     .menu::before{
         content: "";
         position: relative;
