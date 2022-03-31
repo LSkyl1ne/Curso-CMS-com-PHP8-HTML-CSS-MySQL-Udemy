@@ -121,7 +121,10 @@ body{
 .bi-x-lg{
     display: none;
 }
-p{
+.footer-top{
+    display: inline-flex;
+}
+.footer-texto{
     color: white;
 }
 @media (max-width: 750px) {
