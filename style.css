@@ -132,8 +132,7 @@ body{
     padding-bottom: 5px;
     border-bottom: 5px solid blue;
     margin-bottom: 35px;
-
-    
+    width: 90px;    
 }
 .footer-top ul{
     list-style: none;
