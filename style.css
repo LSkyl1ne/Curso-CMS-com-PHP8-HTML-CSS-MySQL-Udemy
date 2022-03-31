@@ -178,6 +178,9 @@ body{
         content: none;
     }
 }
+.footer-logo.descricao{
+    color: white;
+}
 @keyframes rotate {
     to{
         transform: rotate(90deg);
