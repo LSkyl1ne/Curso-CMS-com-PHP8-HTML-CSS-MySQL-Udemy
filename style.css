@@ -143,6 +143,7 @@ body{
 }
 .footer-section{
     width: 25%;
+    margin: 0 10px;
 }
 .footer-logo{
     display: flex;
@@ -247,13 +248,16 @@ body{
     .menu::after{
         content: none;
     }
+    .div-contato svg{
+        width: 100px;
+    }
 }
 @media (max-width: 600px) {
     .footer-top{
         flex-wrap: wrap;
     }
     .footer-section{
-        width: 33%;
+        width: 25%;
     }
     .footer-logo{
         width: 100%;
