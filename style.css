@@ -121,7 +121,7 @@ body{
 .bi-x-lg{
     display: none;
 }
-.descricao p{
+p{
     color: white;
 }
 @media (max-width: 750px) {
