@@ -131,6 +131,7 @@ body{
 .footer-top h4{
     margin-bottom: 35px;
     text-decoration: underline;
+    text-decoration-color: blue;
 }
 .footer-top ul{
     list-style: none;
