@@ -178,7 +178,7 @@ body{
         content: none;
     }
 }
-.footer-logo.descricao p{
+.descricao p{
     color: white;
 }
 @keyframes rotate {
