@@ -126,8 +126,11 @@ body{
     justify-content: space-around;
     width: 100%;
     color: white;
+    text-decoration: none;
+    list-style: none;
 }
 .footer-section{
+    width: 25%;
 }
 .footer-texto{
     color: white;
