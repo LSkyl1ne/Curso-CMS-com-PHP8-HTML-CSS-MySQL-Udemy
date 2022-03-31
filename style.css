@@ -245,6 +245,14 @@ body{
         content: none;
     }
 }
+@media (max-width: 600px) {
+    .footer-top{
+        flex-wrap: wrap;
+    }
+    .footer-section{
+        width: 100%;
+    }
+}
 @keyframes rotate {
     to{
         transform: rotate(90deg);
