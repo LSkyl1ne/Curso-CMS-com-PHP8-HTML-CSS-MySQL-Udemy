@@ -128,10 +128,12 @@ body{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-.footer-top h4{
+.footer-top h3{
+    padding-bottom: 5px;
+    border-bottom: 5px solid blue;
     margin-bottom: 35px;
-    text-decoration: underline;
-    text-decoration-color: blue;
+
+    
 }
 .footer-top ul{
     list-style: none;
