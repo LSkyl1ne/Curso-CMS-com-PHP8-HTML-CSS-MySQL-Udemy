@@ -8,7 +8,9 @@
 </head>
 <body>
     <?php
-    include('footer.php')
+    include('header.php');
+    include('footer.php');
     ?>
+    <script src="resources/js/js.js"></script>
 </body>
 </html>
