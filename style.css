@@ -250,6 +250,9 @@ body{
         flex-wrap: wrap;
     }
     .footer-section{
+        width: 50%;
+    }
+    .footer-contatos{
         width: 100%;
     }
 }
