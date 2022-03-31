@@ -147,7 +147,7 @@ body{
 .footer-logo{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
 }
 .redes-sociais svg{
     margin-right: 5px;
