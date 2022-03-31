@@ -257,9 +257,12 @@ body{
         flex-wrap: wrap;
     }
     .footer-section{
-        width: 25%;
+        width: 50%;
     }
     .footer-logo{
+        width: 100%;
+    }
+    .footer-contatos{
         width: 100%;
     }
 }
