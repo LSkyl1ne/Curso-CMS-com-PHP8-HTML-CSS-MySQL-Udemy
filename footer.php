@@ -25,16 +25,19 @@
             </div>
         </div>
         <div class="footer-section footer-institucional">
-            <div class="titulo"><h3>Institucional</h3></div>
-            <ul>
-                <li><a href=""></a>A RLBS Motors</li>
-                <li><a href="">Serviços</a></li>
-                <li><a href="">Vídeos</a></li>
-                <li><a href="">Blog</a></li>
-                <li><a href="">Fale Conosco</a></li>
-                <li><a href="">Depoimentos</a></li>
-                <li><a href="">Fazer Orçamento</a></li>
-            </ul>
+            <div>
+                <div class="titulo"><h3>Institucional</h3></div>
+                <ul>
+                    <li><a href=""></a>A RLBS Motors</li>
+                    <li><a href="">Serviços</a></li>
+                    <li><a href="">Vídeos</a></li>
+                    <li><a href="">Blog</a></li>
+                    <li><a href="">Fale Conosco</a></li>
+                    <li><a href="">Depoimentos</a></li>
+                    <li><a href="">Fazer Orçamento</a></li>
+                </ul>
+            </div>
+
         </div>
         <div class="footer-section footer-servicos">
         <div class="titulo"><h3>Serviços</h3></div>

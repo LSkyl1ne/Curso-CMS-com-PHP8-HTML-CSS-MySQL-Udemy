@@ -150,10 +150,13 @@ body{
     align-items: center;
 }
 .redes-sociais svg{
-    margin-right: 5px;
+    margin-right: 10px;
 }
 .redes-sociais svg:last-child{
     margin-right: 0;
+}
+.footer-institucional div{
+    margin: 0 auto;
 }
 .div-contato{
     display: flex;
@@ -163,7 +166,7 @@ body{
 .div-contato:last-child{
     margin-bottom: 0px;
 }
-.div-contato .bi{
+.div-contato svg{
     margin-right: 10px;
 }
 .footer-texto{
