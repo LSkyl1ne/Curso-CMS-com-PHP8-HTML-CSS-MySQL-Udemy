@@ -136,7 +136,7 @@ body{
     height: 5px;
     width: 100px;
     background-color: blue;
-    position: relative;
+    position: absolute;
     bottom: 0px;
 }
 .footer-top ul{
