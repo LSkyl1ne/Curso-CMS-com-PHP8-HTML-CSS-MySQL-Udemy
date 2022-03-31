@@ -152,7 +152,7 @@ body{
 .redes-sociais svg{
     margin-right: 5px;
 }
-.redes-sociais:last-child{
+.redes-sociais svg:last-child{
     margin-right: 0;
 }
 .div-contato{
