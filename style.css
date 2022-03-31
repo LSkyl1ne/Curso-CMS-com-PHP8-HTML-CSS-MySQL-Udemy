@@ -177,6 +177,17 @@ body{
 .footer-texto{
     color: white;
 }
+@media (max-width: 900px) {
+    .footer-top{
+        flex-wrap: wrap;
+    }
+    .footer-section{
+        width: 33.333%;
+    }
+    .footer-logo{
+        width: 100%;
+    }
+}
 @media (max-width: 750px) {
     .header{
         width: 100%;
