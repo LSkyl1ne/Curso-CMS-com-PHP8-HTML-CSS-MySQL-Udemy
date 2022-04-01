@@ -250,9 +250,6 @@ body{
     .menu::after{
         content: none;
     }
-    .div-contato svg{
-        width: 100px;
-    }
 }
 @media (max-width: 600px) {
     .footer-top{
