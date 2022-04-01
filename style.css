@@ -180,9 +180,6 @@ body{
 .div-contato:last-child{
     margin-bottom: 0px;
 }
-.div-contato svg{
-    margin-right: 10px;
-}
 .footer-texto{
     color: white;
 }
