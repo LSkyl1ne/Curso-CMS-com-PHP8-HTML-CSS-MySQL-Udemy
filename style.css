@@ -191,10 +191,10 @@ body{
     color: white;
 }
 .banner-itens{
-    display: inline-block;
+    display: inline-flex;
 }
-.banner-item{
-    width: 100vw;
+.banner-item li a img{
+    width: 100%;
     height: auto;
 }
 @media (max-width: 900px) {
