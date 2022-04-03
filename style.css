@@ -19,7 +19,7 @@ body{
 }
 .header-top{
     color: white;
-    display: inline;
+    display: inline-block;
     justify-content: space-between;
     font-size: 17px;
     padding: 16px 0px;
