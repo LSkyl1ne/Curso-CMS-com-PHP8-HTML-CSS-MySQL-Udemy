@@ -190,6 +190,10 @@ body{
 .footer-texto{
     color: white;
 }
+.banner{
+    width: 100%;
+    overflow: hidden;
+}
 .banner-itens{
     display: inline-flex;
 }
