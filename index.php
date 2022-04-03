@@ -11,7 +11,7 @@
     <?php include('header.php'); ?>
     <section class="banner">
         <ul class="banner-itens">
-            <li class="banner-item"><a href=""><img src="resources/imagens/banner.png" alt=""></a></li>
+            <li class="banner-item atual-banner"><a href=""><img src="resources/imagens/banner.png" alt=""></a></li>
             <li class="banner-item"><a href=""><img src="resources/imagens/banner.png" alt=""></a></li>
         </ul>
             

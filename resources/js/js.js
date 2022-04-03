@@ -18,5 +18,20 @@ bar.addEventListener("click", () => {
         x.classList.remove("active");
     }
 });
-let banner = document.querySelector(".banner");
-let bannerItem = document.querySelectorAll(".banner-item")
+
+let bannerItem = document.querySelectorAll(".banner-item");
+let currentImageIndex = 0;
+let max = bannerItem.length;
+let time = 4000;
+function nextImage(){
+    currentImageIndex++;
+    bannerItem[currentImageIndex].classList.remove("atual")
+    bannerItem[currentImageIndex].classList.add("atual")
+    if(currentImageIndex == max){
+        currentImageIndex = 0;
+    }
+    bannerItem[currentImageIndex].classList.add("atual")
+    bannerItem[currentImageIndex].classList.remove("atual")
+}
+function start(){setInterval(() => {nextImage()}, time)};
+window.addEventListener("load", start);

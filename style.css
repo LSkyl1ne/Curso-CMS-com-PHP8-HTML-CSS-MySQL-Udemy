@@ -204,6 +204,9 @@ body{
     width: 100%;
     height: auto;
 }
+.banner-atual{
+    margin-left: 0;
+}
 @media (max-width: 900px) {
     .footer-top{
         flex-wrap: wrap;
