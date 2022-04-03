@@ -197,7 +197,7 @@ body{
     width: 100vw;
 }
 .banner-item li a img{
-    width: 100%;
+    width: 5px;
     height: auto;
 }
 @media (max-width: 900px) {
