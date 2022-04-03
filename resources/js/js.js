@@ -18,3 +18,5 @@ bar.addEventListener("click", () => {
         x.classList.remove("active");
     }
 });
+let banner = document.querySelector(".banner");
+let bannerItem = document.querySelectorAll(".banner-item")

@@ -189,6 +189,13 @@ body{
 .footer-texto{
     color: white;
 }
+.banner-itens{
+    display: flex;
+}
+.banner-item{
+    width: 100%;
+    height: auto;
+}
 @media (max-width: 900px) {
     .footer-top{
         flex-wrap: wrap;
