@@ -8,10 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <?php
-    include('header.php');
-    include('footer.php');
-    ?>
+    <?php include('header.php'); ?>
     <section class="banner">
         <ul class="banner-itens">
             <li class="banner-item"><a href=""><img src="resources/imagens/banner.png" alt=""></a></li>
@@ -21,5 +18,7 @@
         </ul>
     </section>
     <script src="resources/js/js.js"></script>
+    <?php include('footer.php'); ?>
+
 </body>
 </html>
