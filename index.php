@@ -12,6 +12,14 @@
     include('header.php');
     include('footer.php');
     ?>
+    <section class="banner">
+        <ul class="banner-itens">
+            <li class="banner-item"><a href=""><img src="resources/imagens/banner.png" alt=""></a></li>
+        </ul>
+        <ul class="banner-itens">
+            <li class="banner-item"><a href=""><img src="resources/imagens/banner.png" alt=""></a></li>
+        </ul>
+    </section>
     <script src="resources/js/js.js"></script>
 </body>
 </html>
