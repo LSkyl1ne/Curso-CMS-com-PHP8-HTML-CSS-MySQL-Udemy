@@ -196,7 +196,7 @@ body{
 .banner-item li{
     width: 100vw;
 }
-.banner-item li a img{
+.banner-item a img{
     width: 5px;
     height: auto;
 }
