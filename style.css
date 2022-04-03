@@ -193,11 +193,8 @@ body{
 .banner-itens{
     display: inline-flex;
 }
-.banner-item li{
-    width: 100vw;
-}
 .banner-item a img{
-    width: 5px;
+    width: 100%;
     height: auto;
 }
 @media (max-width: 900px) {
