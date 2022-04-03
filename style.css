@@ -193,6 +193,9 @@ body{
 .banner-itens{
     display: inline-flex;
 }
+.banner-item{
+    width: 100%;
+}
 .banner-item a img{
     width: 100%;
     height: auto;
