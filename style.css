@@ -222,6 +222,8 @@ body{
         align-items: center;
         justify-content: space-between;
         flex-wrap: wrap;
+        margin-bottom: 20px
+        ;
     }
     .header-top{
         flex-wrap: wrap;
